@@ -21,6 +21,7 @@ STEP 5: Remove outliers using IQR
 STEP 6: Use zscore of to remove outliers
 
 # Coding and Output
+
 ##  Data Cleaning
 #### READ CSV FILE 
    ```
